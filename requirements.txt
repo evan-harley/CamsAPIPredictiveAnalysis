@@ -1,0 +1,5 @@
+python-dotenv
+influxdb-client-python
+pandas 
+schedule
+scikit-learn
